@@ -1,8 +1,24 @@
 {
-  "posts": [
+  "FCL": [
     {
       "id": 1,
-      "title": "hello"
+      "POL": "BANGKOK& LAMECHABANG",
+      "COUNTR-POL": "THAILAND",
+      "POD": "BUENOS AIRES",
+      "COUNTR-POD": "ARGENTINA",
+      "TT": "35-40",
+      "20DC": "1270",
+      "40DC": "1385"
+    }
+    {
+      "id": 2,
+      "POL": "BANGKOK& LAMECHABANG",
+      "COUNTR-POL": "THAILAND",
+      "POD": "ANTWERP",
+      "COUNTR-POD": "BELGUIM",
+      "TT": "30-34",
+      "20DC": "880",
+      "40DC": "1620"
     }
   ],
   "profile": {
