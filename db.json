@@ -1,5 +1,5 @@
 {
-  "data": ["FCL":
+  "data": ["FCL":[
     {
       "id": 1,
       "POL": "BANGKOK& LAMECHABANG",
@@ -19,7 +19,7 @@
       "TT": "30-34",
       "20DC": "880",
       "40DC": "1620"
-    }
+    }]
   ],
   "profile": {
     "name": "typicode"
